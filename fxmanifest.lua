@@ -3,7 +3,7 @@ game 'gta5'
 
 name 'capo-clearkeys'
 description 'Clear QS vehicle key items with framework + locale support'
-author 'You'
+author 'Capo'
 version '1.3.0'
 
 lua54 'yes'
