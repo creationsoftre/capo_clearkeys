@@ -1,6 +1,6 @@
 # 🚗 capo_clearkeys
 
-A lightweight FiveM resource that gives players and server owners an easy way to **manage and clear vehicle key items** from inventories.  
+A lightweight FiveM resource that gives players and server owners an easy way to **manage and clear qs-vehicle key items** from **qs-invenotry**.  
 Supports all major frameworks and inventory systems out of the box, with localization, notifications, and simple configuration.
 
 ---
@@ -21,7 +21,8 @@ Supports all major frameworks and inventory systems out of the box, with localiz
 
 ## 📦 Requirements
 
-- **Framework**: QBCore / QBX / ESX  
+- **Framework**: QBCore / QBX / ESX
+- **Vehicle Key System**: qs-vehiclekeys
 - **Inventory**: ox_inventory / qs-inventory / qb-inventory / ps-inventory / ESX inventory  
 - **UI library**: [ox_lib](https://github.com/overextended/ox_lib)  
 
